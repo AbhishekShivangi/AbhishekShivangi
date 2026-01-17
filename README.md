@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **abhishekshivangi03@gmail.com|**
 
+- 💬 Ask me about **Devops**
+
 - ⚡ Fun fact **I play online games**
 
 <h3 align="left">Connect with me:</h3>
