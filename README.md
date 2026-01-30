@@ -9,7 +9,7 @@
 
 - 📃 I’m currently completed [Vehicle Information System](https://github.com/AbhishekShivangi/Vehicle-Information-System)
 
-- 🤝 I’m looking for help with **IoT-Based Smart Irrigation System**
+- 🤝 I’m looking for help with **Major Project**
 
 - 📫 How to reach me **abhishekshivangi03@gmail.com|**
 
