@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Major Project**
 
-- 📫 How to reach me **abhishekshivangi03@gmail.com|**
+- 📫 How to reach me **abhishekshivangi03@gmail.com**
 
 - 💬 Ask me about **Devops**
 
